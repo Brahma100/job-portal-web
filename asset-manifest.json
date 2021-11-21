@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/job-portal-web/static/css/main.1f3e64cf.chunk.css",
-    "main.js": "/job-portal-web/static/js/main.062c8bd6.chunk.js",
-    "main.js.map": "/job-portal-web/static/js/main.062c8bd6.chunk.js.map",
+    "main.js": "/job-portal-web/static/js/main.4e96f4d4.chunk.js",
+    "main.js.map": "/job-portal-web/static/js/main.4e96f4d4.chunk.js.map",
     "runtime-main.js": "/job-portal-web/static/js/runtime-main.ba9eaa52.js",
     "runtime-main.js.map": "/job-portal-web/static/js/runtime-main.ba9eaa52.js.map",
     "static/js/2.6e209095.chunk.js": "/job-portal-web/static/js/2.6e209095.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ba9eaa52.js",
     "static/js/2.6e209095.chunk.js",
     "static/css/main.1f3e64cf.chunk.css",
-    "static/js/main.062c8bd6.chunk.js"
+    "static/js/main.4e96f4d4.chunk.js"
   ]
 }
