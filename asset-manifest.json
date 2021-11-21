@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/job-portal_static-web/static/css/main.1f3e64cf.chunk.css",
-    "main.js": "/job-portal_static-web/static/js/main.d8c27dd5.chunk.js",
-    "main.js.map": "/job-portal_static-web/static/js/main.d8c27dd5.chunk.js.map",
-    "runtime-main.js": "/job-portal_static-web/static/js/runtime-main.0f8cf5cc.js",
-    "runtime-main.js.map": "/job-portal_static-web/static/js/runtime-main.0f8cf5cc.js.map",
-    "static/js/2.6e209095.chunk.js": "/job-portal_static-web/static/js/2.6e209095.chunk.js",
-    "static/js/2.6e209095.chunk.js.map": "/job-portal_static-web/static/js/2.6e209095.chunk.js.map",
-    "static/js/3.83db7266.chunk.js": "/job-portal_static-web/static/js/3.83db7266.chunk.js",
-    "static/js/3.83db7266.chunk.js.map": "/job-portal_static-web/static/js/3.83db7266.chunk.js.map",
-    "index.html": "/job-portal_static-web/index.html",
-    "static/css/main.1f3e64cf.chunk.css.map": "/job-portal_static-web/static/css/main.1f3e64cf.chunk.css.map",
-    "static/js/2.6e209095.chunk.js.LICENSE.txt": "/job-portal_static-web/static/js/2.6e209095.chunk.js.LICENSE.txt"
+    "main.css": "/job-portal-web/static/css/main.1f3e64cf.chunk.css",
+    "main.js": "/job-portal-web/static/js/main.d8c27dd5.chunk.js",
+    "main.js.map": "/job-portal-web/static/js/main.d8c27dd5.chunk.js.map",
+    "runtime-main.js": "/job-portal-web/static/js/runtime-main.ba9eaa52.js",
+    "runtime-main.js.map": "/job-portal-web/static/js/runtime-main.ba9eaa52.js.map",
+    "static/js/2.6e209095.chunk.js": "/job-portal-web/static/js/2.6e209095.chunk.js",
+    "static/js/2.6e209095.chunk.js.map": "/job-portal-web/static/js/2.6e209095.chunk.js.map",
+    "static/js/3.83db7266.chunk.js": "/job-portal-web/static/js/3.83db7266.chunk.js",
+    "static/js/3.83db7266.chunk.js.map": "/job-portal-web/static/js/3.83db7266.chunk.js.map",
+    "index.html": "/job-portal-web/index.html",
+    "static/css/main.1f3e64cf.chunk.css.map": "/job-portal-web/static/css/main.1f3e64cf.chunk.css.map",
+    "static/js/2.6e209095.chunk.js.LICENSE.txt": "/job-portal-web/static/js/2.6e209095.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f8cf5cc.js",
+    "static/js/runtime-main.ba9eaa52.js",
     "static/js/2.6e209095.chunk.js",
     "static/css/main.1f3e64cf.chunk.css",
     "static/js/main.d8c27dd5.chunk.js"
